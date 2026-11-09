@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# результаты прогонов создаются заново
+output/*.png
+output/*.xlsx
+output/*.csv
+output/*.txt
+
+# служебные файлы IDE/ОС
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "python.analysis.extraPaths": ["."],
+  "python.defaultInterpreterPath": "python",
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "terminal.integrated.env.windows": {
+    "PYTHONIOENCODING": "utf-8",
+    "MPLBACKEND": "Agg"
+  }
+}
